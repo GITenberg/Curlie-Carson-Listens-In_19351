@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3593'
     url: http://www.gutenberg.org/2009/agents/3593
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19351#Curlie-Carson-Listens-In
 gutenberg_issued: '2006-09-22'
 gutenberg_type: Text
 identifiers:
